@@ -1,0 +1,15 @@
+com\js\manage\mapper\profession\ProfessionMapper.class
+com\js\manage\mapper\adminusercredentials\AdminUserCredentialsMapper.class
+com\js\manage\mapper\guide\GuideMapper.class
+com\js\manage\mapper\region\RegionMapper.class
+com\js\manage\mapper\file\FileMapper.class
+com\js\manage\mapper\adminuser\AdminUserMapper.class
+com\js\manage\mapper\itemcat\ItemCatMapper.class
+com\js\manage\mapper\base\mapper\SysMapper.class
+com\js\manage\mapper\base\mapper\SysMapperProvider.class
+com\js\manage\mapper\company\CompanyMapper.class
+com\js\manage\mapper\servercartype\ServerCarTypeMapper.class
+com\js\manage\mapper\order\OrderMapper.class
+com\js\manage\mapper\needtag\NeedTagMapper.class
+com\js\manage\mapper\adminuserexpand\AdminUserExpandMapper.class
+com\js\manage\mapper\orderserver\OrderServerMapper.class

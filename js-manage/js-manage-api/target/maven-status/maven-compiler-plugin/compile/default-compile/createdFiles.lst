@@ -1,0 +1,6 @@
+com\js\api\controller\region\RegionController.class
+com\js\api\controller\itemcat\ItemCatController.class
+com\js\api\controller\adminuser\AdminUserController.class
+com\js\api\base\controller\BaseController.class
+com\js\api\controller\order\OrderController.class
+com\js\api\controller\profession\ProfessionController.class

@@ -1,0 +1,15 @@
+com\js\manage\pojo\guide\Guide.class
+com\js\manage\pojo\needtag\NeedTag.class
+com\js\manage\pojo\adminUser\AdminUser.class
+org\js\manage\pojo\App.class
+com\js\manage\pojo\adminusercredentials\AdminUserCredentials.class
+com\js\manage\pojo\file\File.class
+com\js\manage\pojo\servercartype\ServerCarType.class
+com\js\manage\pojo\company\Company.class
+com\js\manage\pojo\adminuserexpand\AdminUserExpand.class
+com\js\manage\pojo\BasePojo.class
+com\js\manage\pojo\profession\Profession.class
+com\js\manage\pojo\itemcat\ItemCat.class
+com\js\manage\pojo\order\Order.class
+com\js\manage\pojo\orderserver\OrderServer.class
+com\js\manage\pojo\region\Region.class

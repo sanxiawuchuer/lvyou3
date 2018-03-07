@@ -1,0 +1,16 @@
+com\js\manage\service\itemcat\ItemCatService.class
+com\js\manage\service\AbstractEntity.class
+com\js\manage\service\region\RegionService.class
+com\js\manage\service\adminuser\AdminUserService.class
+com\js\manage\service\EntityUtil.class
+org\js\manage\service\App.class
+com\js\manage\service\StringUtils.class
+com\js\manage\service\adminuserexpand\AdminUserExpandService.class
+com\js\manage\service\profession\ProfessionService.class
+com\js\manage\service\orderserver\OrderServerService.class
+com\js\manage\service\NumberUtils.class
+com\js\manage\service\needtag\NeedTagService.class
+com\js\manage\service\order\OrderService.class
+com\js\manage\service\guide\GuideService.class
+com\js\manage\service\servercartype\ServerCarTypeService.class
+com\js\manage\service\BaseService.class
